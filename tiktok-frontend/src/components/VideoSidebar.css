@@ -1,0 +1,25 @@
+.videoSidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.videoSidebar__button {
+  padding: 20px;
+  text-align: center;
+}
+/* .VideoSidebar{
+  position: absolute;
+  top: 30%;
+  right: 10px;
+  color: white;
+
+}
+
+.videoSidebar__button{
+  padding: 20px;
+  text-align: center;
+} */
